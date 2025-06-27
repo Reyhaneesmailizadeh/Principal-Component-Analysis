@@ -108,21 +108,6 @@ max_v J(v) = vᵀΣv − α(vᵀv − 1) − ∑ᵢ₌₁^{j−1} βᵢ(uᵢᵀv
     <strong>Note:</strong> You <em>may not</em> use built-in PCA libraries.  
     You <strong>can</strong> use the <code>QR Algorithm</code> to compute eigenvectors.
   </p>
-  <p>
-    Submit your answers in either:
-    <ul>
-      <li>A <strong>PDF file</strong>, or</li>
-      <li>A <strong>Markdown notebook (.ipynb)</strong></li>
-    </ul>
-  </p>
-
-  <h3>Code Reuse</h3>
-  <p>
-    In the next phase of the project, you will need the notebook you implemented earlier.  
-    Make sure the previous code is fully ready and available for use.
-  </p>
-
-  <p><em>All required information is available in the notebook provided for this section.</em></p>
 
 </body>
 </html>
