@@ -1,21 +1,6 @@
 # Principal-Component-Analysis
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>PCA Linear Algebra Project</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; padding: 2em; }
-    h1, h2, h3 { color: #2c3e50; }
-    code { background: #f4f4f4; padding: 0.2em 0.4em; border-radius: 4px; }
-    pre { background: #f4f4f4; padding: 1em; border-radius: 4px; overflow-x: auto; }
-    blockquote { border-left: 4px solid #ccc; padding-left: 1em; color: #555; }
-  </style>
-</head>
-<body>
-
   <h1>Linear Algebra – Computer Project (Fall 1403 / 2024)</h1>
   <h2>Faculty of Science, University of Tehran</h2>
   <p><strong>Instructor:</strong> Dr. Amiri</p>
